@@ -1,0 +1,25 @@
+body{
+  background: #b1106100;
+  
+}
+
+
+
+#formCadastroProfessor{
+
+ text-align: center;
+text-transform: uppercase;
+padding: 5px 30px 30px 30px;
+margin: 0%;
+background:rgba(247, 155, 18, 0.363);
+border-radius: 10px;
+
+}
+.container{
+display: grid;
+place-items: center;
+margin-top: 30px;
+}
+
+
+
