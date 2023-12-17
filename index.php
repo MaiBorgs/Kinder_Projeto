@@ -65,7 +65,7 @@
                             
                         </div>
                     </div>
-                    <a href="" class="nav-item nav-link">Contato</a>
+                    <a href="contato.php" class="nav-item nav-link">Contato</a>
                 </div>
                 <a href="" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Crie sua conta<i class="fa fa-arrow-right ms-3"></i></a>
             </div>

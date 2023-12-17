@@ -38,7 +38,7 @@
                             
                         </div>
                     </div>
-                    <a href="" class="nav-item nav-link">Contato</a>
+                    <a href="contato.php "class="nav-item nav-link">Contato</a>
                 </div>
                 <a href="" class="btn btn-primary rounded-pill px-3 d-none d-lg-block">Crie sua conta<i class="fa fa-arrow-right ms-3"></i></a>
             </div>
@@ -91,16 +91,12 @@
       <div/>
   </div>
 
-  
-    <div class="col-md-12 mt-2">
-      <input class="form-check-input" type="checkbox" id="gridCheck">
-      <div class="col-md-12">
-      <label style="text-aling: center" class="mb-3" for="gridCheck">
-        Confiro os dados fornecidos
-      </label>
+  <div class="remember-forget">
+        <label><input type="checkbox"> Confiro os dados enviados </label>
     </div>
-</div>
-
+    
+    
+  
 
 
   <div class="col-12">
