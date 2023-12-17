@@ -91,16 +91,19 @@
       <div/>
   </div>
 
-  <div class="col-2">
-    <div class="mb-2 mt-1">
-      <input class="form-check-input type="checkbox" id="gridCheck">
-      <label class="form-check-label " for="gridCheck">
+  
+    <div class="col-md-12 mt-2">
+      <input class="form-check-input" type="checkbox" id="gridCheck">
+      <div class="col-md-12">
+      <label style="text-aling: center" class="mb-3" for="gridCheck">
         Confiro os dados fornecidos
       </label>
     </div>
-  </div>
-  
-  <div class="col-4">
+</div>
+
+
+
+  <div class="col-12">
     <button type="submit" class="btn btn-primary">Cadastro</button>
   </div>
   </div> 

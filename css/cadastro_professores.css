@@ -3,8 +3,6 @@ body{
   
 }
 
-
-
 #formCadastroProfessor{
 
  text-align: center;
@@ -22,4 +20,13 @@ margin-top: 30px;
 }
 
 
+ul {
+  padding: 0; margin: 0;
+  margin-bottom: 30px;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 10px;
+}
 
