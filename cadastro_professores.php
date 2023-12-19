@@ -48,19 +48,18 @@
 <!-- FORMS DE CADASTRO -->
 
         <form id="formCadastroProfessor" class="row g-3 ">
- 
-
+         
    <div class="container "> 
   <div class="col-md-4">
   <div class="mb-1 mt-2">
-    <label for="tXtNomeProfessor" class="form-label">Nome Completo</label>
+    <label for="tXtNomeProfessor" class="form-label"> Nome Completo </label>
     <input type="text" style="width:400px; height:40px;" class="form-control" id="tXtNomeProfessor">
   </div>
 </div>
 
   <div class="col-md-4">
   <div class="mb-1 mt-2">
-    <label for="tXtFormacao" class="form-label">Formação</label>
+    <label for="tXtFormacao" class="form-label"> Formação </label>
     <input type="text" style="width:400px; height:40px;" class="form-control" id="tXtFormacao">
   </div>
 </div>
@@ -99,7 +98,7 @@
   
 
 
-  <div class="col-12">
+  <div class="col-12 mt-3">
     <button type="submit" class="btn btn-primary">Cadastro</button>
   </div>
   </div> 
