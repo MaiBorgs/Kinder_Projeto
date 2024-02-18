@@ -43,13 +43,56 @@
         <!-- Navbar End -->
 
  <!-- LISTA DE PROFESSORES-->
-<ul class="list-group">
-    <li class="list-group-item disabled">Nossos Professores</li>
-    <li class="group-item"> Jake Peralta </li>
-    <li class="group-item"> Amy Santiago</li>
-    <li class="group-item"> Rosa Diaz </li>
-    <li class="group-item"> Adrian Pimento </li>
-</ul>
+  <!-- DIV PRINCIPAL  -->
+ <div class="container">
+
+ <div class="card mb-3" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="img/peralta.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Jake Peralta</h5>
+        <p class="card-text">Nosso professor mais adorado pelos pequenos. Alegre, divertido e brincalhão ele procura ensinar da forma mais dinâmica possível</p>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card mb-3" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="img/rosaDiaz.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Rosa Diaz</h5>
+        <p class="card-text">Ela é a nossa professora referência. Tem a habilidade de transformar uma simples sala de aula em um mundo de conhecimento</p>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="card mb-3" style="max-width: 540px;">
+  <div class="row no-gutters">
+    <div class="col-md-4">
+      <img src="img/amysantiago.jpg" class="card-img" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title">Amy Santiago</h5>
+        <p class="card-text">Extremamente qualificada, ela é carinhosa e responsável com sua turma! Realmente uma profissional e tanto</p>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+</div>
 
 
 </body>
