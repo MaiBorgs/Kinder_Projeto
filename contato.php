@@ -52,23 +52,23 @@
         </nav>
 <!-- FORMS CONTATO-->
         <div class="wrapper">
-            <form  action="">
+            <form  action="/conexao_bd_contato.php" method="post">
                 <h1>Faça um contato com a escola</h1>
     <div class=" input-box">
-       <input type="text" placeholder="Nome dos Pais e/ou Responsáveis">
+       <input id= "tXtNomePais" type="text" placeholder="Nome dos Pais e/ou Responsáveis">
              </div>
     <div class="input-box">
-        <input type="text" placeholder="Nome Completo">
+        <input id= "tXtNome" type="text" placeholder="Nome Completo">
              </div>
     <div class=" input-box">
-        <input type="text" placeholder="Email para contato">
+        <input id="tXtEmail" type="text" placeholder="Email para contato">
         <i class='bx bx-user'></i>
             </div>
     <div class=" input-box">
-        <input type="text" placeholder="Idade">
+        <input id="tXtIdade" type="text" placeholder="Idade">
             </div>
     <div class="input-box">
-        <input type="text" placeholder="Mensagem">
+        <input id="tXtMensagem" type="text" placeholder="Mensagem">
         <i class='bx bxs-comment-dots'></i>
             </div>
 

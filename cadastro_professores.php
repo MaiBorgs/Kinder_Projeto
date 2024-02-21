@@ -47,7 +47,7 @@
 
 <!-- FORMS DE CADASTRO -->
 
-        <form id="formCadastroProfessor" class="row g-3 ">
+        <form  action="/conexao_bd.php" id="formCadastroProfessor" class="row g-3 " method="post">
          
    <div class="container "> 
   <div class="col-md-4">
