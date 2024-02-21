@@ -53,7 +53,7 @@
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title">Jake Peralta</h5>
+        <h5 class="card-title" row="1" >Jake Peralta</h5>
         <p class="card-text">Nosso professor mais adorado pelos pequenos. Alegre, divertido e brincalhão ele procura ensinar da forma mais dinâmica possível</p>
         <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
       </div>
